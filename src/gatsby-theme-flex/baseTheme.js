@@ -69,22 +69,6 @@ export default {
     onClickCard: { filter: 'brightness(105%)' },
 
     modes: {
-      light: {
-        text: '#0e3c61',
-        textSecondary: 'hsl(10, 20%, 20%)',
-        textMuted: '#c7a9ce',
-        primary: '#ff94c2',
-        secondary: '#90caf9',
-        muted: '#fbf4fc',
-        background: 'hsl(10, 10%, 98%)',
-        transparent: `rgba(0,0,0,0)`,
-        imgShadow: '4px 10px 20px 0px rgb(43,43,47)',
-        backgroundNavBar: 'hsl(10, 10%, 98%)',
-        backgroundSideBar: 'hsl(10, 10%, 98%)',
-        activeTextBar: '#90caf9',
-        textBar: '#ff94c2',
-        backgroundCard: '#fbf4fc'
-      },
       purple: {
         text: '#ffffff',
         textSecondary: '#d2d2f1',
@@ -116,26 +100,6 @@ export default {
         textBar: 'hsl(260, 100%, 80%)',
         backgroundCard: 'hsla(230, 20%, 0%, 20%)'
       },
-      swiss: {
-        text: '#207588',
-        // background: 'hsl(10, 10%, 98%)',
-        background: '#F7F7F7',
-        textSecondary: '#4b6f77',
-        textMuted: '#c7a9ce',
-        primary: '#AAD0D9',
-        secondary: '#EED5D1',
-        highlight: 'hsl(10, 40%, 90%)',
-        accent: '#E5B9B6⁣',
-        muted: '#ffffffba',
-        gray: 'hsl(10, 20%, 50%)',
-        shadowCard: '9px 8px 50px rgba(32,32,35,.1)',
-        imgShadow: '6px 7px 20px 0px rgb(43, 43, 47)',
-        backgroundNavBar: '#AAD0D9',
-        backgroundSideBar: '#AAD0D9',
-        activeTextBar: '#4b6f77',
-        textBar: '#207588',
-        backgroundCard: '#ffffffba'
-      }
       /*   neumorphism: {
         text: '#faf9f9',
         textSecondary: '#D5CCCC',

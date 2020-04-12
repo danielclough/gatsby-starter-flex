@@ -14,7 +14,7 @@ const Logos = React.forwardRef(
     <section
       ref={ref}
       sx={{
-        py: [6, 8, 10],
+        py: [1, 2, 3],
         ...style,
       }}
       {...props}
