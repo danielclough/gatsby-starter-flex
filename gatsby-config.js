@@ -2,19 +2,19 @@ require(`dotenv`).config()
 
 module.exports = {
   siteMetadata: {
-    title: `Flex Starter`,
-    description: `Starter for the Flex theme.`,
+    title: `Smoked Tea`,
+    description: `The Original Blak Tea`,
     siteUrl: process.env.SITE_URL,
     logo: `logo.png`,
-    copyright: `© YYYY Flex. All rights reserved.`,
+    copyright: `©2020 Immodestea - All rights reserved.`,
     headerLinks: [
       {
         title: `Home`,
         path: `/`,
       },
       {
-        title: `About`,
-        path: `/about`,
+        title: `Shop`,
+        path: `/shop`,
       },
     ],
     footerLinks: [
@@ -23,8 +23,8 @@ module.exports = {
         path: `/`,
       },
       {
-        title: `About`,
-        path: `/about`,
+        title: `Shop`,
+        path: `/shop`,
       },
     ],
   },
