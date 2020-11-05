@@ -29,13 +29,13 @@
   },
   "devDependencies": {
     "gatsby": "2.20.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   },
   "dependencies": {
     "gatsby": "2.20.2",
     "gatsby-theme-flex": "^0.2.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   }
 }
